@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkLunetta2
 - 👀 I’m interested in UI/UX design, game/software development, and quantum computing.
 - 🌱 I’m currently learning anything and everything I can.
-- 💞️ I’m looking to collaborate on creating useful and intuitive software for users.
+- 👥 I’m looking to collaborate on creating useful and intuitive software for users.
 - 📫 How to reach me? Email: lunetta2@msu.edu
 
 <!---
